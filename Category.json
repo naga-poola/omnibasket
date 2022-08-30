@@ -1,0 +1,268 @@
+{
+"head": {
+  "catalog": "storefront-catalog-en",
+  "locale": "en-US",
+  "internal_disable_image_processing": false
+  },
+"items": [
+               {
+            "path": "Shop",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "images": [
+                {
+                    "url": "http://newstore-assets-751244450943-useast1.s3-website-us-east-1.amazonaws.com/dodici/ann_sweater_dress_tan_7.jpg",
+                    "alt_text": "ann_sweater_dress_tan",
+                    "title": "ann_sweater_dress_tan",
+                    "tags": [
+                        "tag 1",
+                        "tag 2"
+                    ],
+                    "is_main": true
+                }
+            ],
+            "path": "Shop > Clothing",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "images": [
+                {
+                    "url": "http://newstore-assets-751244450943-useast1.s3-website-us-east-1.amazonaws.com/dodici/taylor_pumps_1.jpg",
+                    "alt_text": "taylor_pumps",
+                    "title": "taylor_pumps",
+                    "tags": [
+                        "tag 1",
+                        "tag 2"
+                    ],
+                    "is_main": true
+                }
+            ],
+            "path": "Shop > Shoes",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "images": [
+                {
+                    "url": "http://newstore-assets-751244450943-useast1.s3-website-us-east-1.amazonaws.com/dodici/cassie_scarf_2.jpg",
+                    "alt_text": "cassie scarf",
+                    "title": "cassie scarf",
+                    "tags": [
+                        "tag 1",
+                        "tag 2"
+                    ],
+                    "is_main": true
+                }
+            ],
+            "path": "Shop > Accessories",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "images": [
+                {
+                    "url": "http://newstore-assets-751244450943-useast1.s3-website-us-east-1.amazonaws.com/dodici/valerie_top_white_frontangle.jpg",
+                    "alt_text": "valerie_top_white_frontangle",
+                    "title": "valerie_top_white_frontangle",
+                    "tags": [
+                        "tag 1",
+                        "tag 2"
+                    ],
+                    "is_main": true
+                }
+            ],
+            "path": "Shop > Clothing > Tops",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "images": [
+                {
+                    "url": "http://newstore-assets-751244450943-useast1.s3-website-us-east-1.amazonaws.com/dodici/carly_pants_frontangle.jpg",
+                    "alt_text": "carly_pants_frontangle",
+                    "title": "carly_pants_frontangle",
+                    "tags": [
+                        "tag 1",
+                        "tag 2"
+                    ],
+                    "is_main": true
+                }
+            ],
+            "path": "Shop > Clothing > Pants",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "images": [
+                {
+                    "url": "http://newstore-assets-751244450943-useast1.s3-website-us-east-1.amazonaws.com/dodici/ivette_jacket_6.jpg",
+                    "alt_text": "ivette_jacket",
+                    "title": "ivette_jacket",
+                    "tags": [
+                        "tag 1",
+                        "tag 2"
+                    ],
+                    "is_main": true
+                }
+            ],
+            "path": "Shop > Clothing > Jackets",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "images": [
+                {
+                    "url": "http://newstore-assets-751244450943-useast1.s3-website-us-east-1.amazonaws.com/dodici/kendall_jumpsuit_3.jpg",
+                    "alt_text": "kendall_jumpsuit",
+                    "title": "kendall_jumpsuit",
+                    "tags": [
+                        "tag 1",
+                        "tag 2"
+                    ],
+                    "is_main": true
+                }
+            ],
+            "path": "Shop > Clothing > Jumpsuits",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "images": [
+                {
+                    "url": "http://newstore-assets-751244450943-useast1.s3-website-us-east-1.amazonaws.com/dodici/selma_dress_frontangle.jpg",
+                    "alt_text": "selma_dress_frontangle",
+                    "title": "selma_dress_frontangle",
+                    "tags": [
+                        "tag 1",
+                        "tag 2"
+                    ],
+                    "is_main": true
+                }
+            ],
+            "path": "Shop > Clothing > Dresses",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "images": [
+                {
+                    "url": "http://newstore-assets-751244450943-useast1.s3-website-us-east-1.amazonaws.com/dodici/jenn_leather_skirt_front.jpg",
+                    "alt_text": "jenn_leather_skirt_front",
+                    "title": "jenn_leather_skirt_front",
+                    "tags": [
+                        "tag 1",
+                        "tag 2"
+                    ],
+                    "is_main": true
+                }
+            ],
+            "path": "Shop > Clothing > Skirts",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "images": [
+                {
+                    "url": "http://newstore-assets-751244450943-useast1.s3-website-us-east-1.amazonaws.com/dodici/colette_crossbody_2.jpg",
+                    "alt_text": "colette_crossbody",
+                    "title": "colette_crossbody",
+                    "tags": [
+                        "tag 1",
+                        "tag 2"
+                    ],
+                    "is_main": true
+                }
+            ],
+            "path": "Shop > Clothing > Bags",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "path": "Shop > Gift Cards",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "images": [
+                {
+                    "url": "http://newstore-assets-751244450943-useast1.s3-website-us-east-1.amazonaws.com/dodici/home-collection2x.jpg",
+                    "alt_text": "pre_fall",
+                    "title": "pre_fall",
+                    "tags": [
+                        "tag 1",
+                        "tag 2"
+                    ],
+                    "is_main": true
+                }
+            ],
+            "path": "Releases > Collection",
+            "description": "Shop our best and brightest pieces for spring, ready to mix and match for a bold take on transeasonal layering.",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": "Spring It On"
+                }
+            ]
+        },
+        {
+            "path": "Releases",
+            "extended_attributes": [
+                {
+                    "name": "subtitle",
+                    "value": ""
+                }
+            ]
+        }
+   ]
+}
